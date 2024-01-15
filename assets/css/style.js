@@ -423,12 +423,12 @@ const J1AKS = new Array(14);
   J1LAKS[13] = J1LAKS[2];
 
   const J1LASEKS = new Array(14);
-  J1LASEKS[0] = "Jordan 1 Low Alt"
-  J1LASEKS[1] = "Baby/Toddler Shoes"
-  J1LASEKS[2] = "1,399,000"
-  J1LASEKS[11] = J1LASEKS[0];
-  J1LASEKS[12] = J1LASEKS[1];
-  J1LASEKS[13] = J1LASEKS[2];
+  J1LASEKSS[0] = "Jordan 1 Low Alt"
+  J1LASEKSS[1] = "Baby/Toddler Shoes"
+  J1LASEKSS[2] = "1,399,000"
+  J1LASEKSS[11] = J1LASEKSS[0];
+  J1LASEKSS[12] = J1LASEKSS[1];
+  J1LASEKSS[13] = J1LASEKSS[2];
 
   const JA1LKS = new Array(14);
   JA1LKS[0] = "Nike Air Max 1"
